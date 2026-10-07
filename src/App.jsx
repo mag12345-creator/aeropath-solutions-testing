@@ -11,3 +11,4 @@ export default function App() {
       <p>Site is deploying correctly.</p>
     </div>
   )
+}
